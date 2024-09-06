@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Clovis Rabot</h1>
-<h3 align="center">Third-year developer at Epitech Marseille</h3>
 
 - 📫 How to reach me **clovis.rabot@proton.me**
 

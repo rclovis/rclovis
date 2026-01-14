@@ -18,7 +18,6 @@ Software Engineer
 - 🔗 LinkedIn: [Clovis Rabot](https://www.linkedin.com/in/clovis-rabot-01811a233/)
 
 ## GitHub Stats
-<div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={rclovis}&theme={default}" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={rclovis}&theme={default}" />
-</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={rclovis}&theme={default})
+![]([http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={rclovis}&theme={default}](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={rclovis}&theme={default}))

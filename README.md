@@ -1,5 +1,5 @@
 # Hi 👋, I'm Clovis Rabot
-Software Engineer and CS student at Epitech and HKUST
+Software Engineer
 
 ## Interests
 - **Software Engineering**: Rust, C, C++, Python, Haskell

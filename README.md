@@ -19,6 +19,6 @@ Software Engineer
 
 ## GitHub Stats
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=rclovis&show_icons=true&theme=transparent&rank_icon=github" width="400" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rclovis&layout=compact&theme=transparent" width="400" height="200" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={rclovis}&theme={default}" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={rclovis}&theme={default}" />
 </div>
